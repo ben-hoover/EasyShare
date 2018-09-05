@@ -1,0 +1,3 @@
+Notifications List:
+loginsuccess : sent when the state changed to open. Recieved by login view
+displaylogin: sent when not logged in to display the login page
